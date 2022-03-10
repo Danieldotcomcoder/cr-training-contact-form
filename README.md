@@ -1,8 +1,7 @@
-# Project Name: Portfolio-setup-and-mobile-version-skeleton .
+# Project Name: Portfolio-setup .
 
-> In this project I built the mobile version of my portfolio , It contains mainly two parts the header and the headline , the header is divided into two sections: the status bar 
-> which contains the clock,battery,wifi etc.. and the toolbar that have the logo section and the icon menu . The Headline contains 3 main section which introduce me and show how
-> to contact me. 
+ In this project I built the Desktop version of my portfolio , It contains mainly two parts the header and the headline , the header is divided into two sections: the status bar which contains the clock,battery,wifi etc.. and the toolbar that have the logo section and the icon menu.The Headline contains 3 main section which introduce me and show how
+
 
 
 In order to get a copy of this project :
